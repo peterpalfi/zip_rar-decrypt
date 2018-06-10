@@ -18,6 +18,5 @@ def bruteforce(zfile, stringTypeSet):
                 distance = end - start
                 return (attempts, distance, letter)
 
-# Allowed characters
 #stringType = "1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ`~!@#$%^&*()_-+=[{]}|:;'\",<.>/?"
 #numType = "1234567890"
