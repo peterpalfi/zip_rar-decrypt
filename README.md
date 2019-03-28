@@ -1,5 +1,5 @@
 # zip_rar-decrypt
-function set for decrypting zip/rar files
+simple python script for brute-force cracking zip/rar passwords
 
 --credits--
 
